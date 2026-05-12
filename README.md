@@ -63,3 +63,62 @@ Em busca da minha primeira oportunidade na área de tecnologia para aplicar na p
 - 🐳 Docker (básico)
 - 🎨 Figma (leitura e criação de interfaces)
 - ⚙️ Configuração e execução de projetos
+
+
+---
+
+
+## 🚀 Projetos em Destaque
+
+### 💰 Cashback App
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+
+Aplicação de cashback com backend em Python, integração com PostgreSQL e frontend em React com gerenciamento de rotas.
+
+🔗 Ver projeto: https://github.com/isapq/cashback-app
+
+---
+
+### 🍽️ Restaurant Orders (Backend)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+
+Backend para gerenciamento de pedidos com arquitetura baseada em workers, mensageria com Kafka e persistência com PostgreSQL.
+
+🔗 Ver projeto: https://github.com/isapq/restaurant-orders-backend
+
+---
+
+### 📡 Activation Services Monitor
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+
+Sistema de monitoramento com backend em Node.js, integração com PostgreSQL e interface em React com navegação por rotas.
+
+🔗 Ver projeto: https://github.com/isapq/activation-services-monitor
+
+### 📱 Phone Catalog (React)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![UI](https://img.shields.io/badge/UI-Interface-blue)
+![Frontend](https://img.shields.io/badge/Frontend-App-purple)
+
+Catálogo de produtos com interface dinâmica e organização de componentes.
+
+🔗 Ver projeto: https://github.com/isapq/react_phone-catalog
+
+---
+
+### 🚴 Página de Vendas (Bike)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![Frontend](https://img.shields.io/badge/LandingPage-UI-green)
+
+Landing page de vendas com foco em layout, responsividade e apresentação visual.
+
+🔗 Ver projeto: https://github.com/isapq/projeto-pagina-de-vendas-bike
