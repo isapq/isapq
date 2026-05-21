@@ -103,6 +103,8 @@ Sistema de monitoramento com backend em Node.js, integração com PostgreSQL e i
 
 🔗 Ver projeto: https://github.com/isapq/activation-services-monitor
 
+---
+
 ### 📱 Phone Catalog (React)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![UI](https://img.shields.io/badge/UI-Interface-blue)
