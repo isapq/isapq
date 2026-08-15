@@ -70,6 +70,24 @@ Em busca da minha primeira oportunidade na área de tecnologia para aplicar na p
 
 ## 🚀 Projetos em Destaque
 
+### 📖 Lemida (monorepo com App & ID) - EM ANDAMENTO
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white)
+
+Aplicação destinada a armazenar cursos e uma trilha de atividades para adolescentes.
+
+🔗 Ver projeto: https://github.com/isapq/course_platform_for_teenagers
+
+---
+
 ### 💰 Cashback App
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
