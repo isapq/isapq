@@ -1,3 +1,6 @@
+<img width="100%" height="315" alt="Capa GitHub isapq" src="https://github.com/user-attachments/assets/9dd5da26-2a44-422a-8c6f-1c10b218a8e1" />
+
+
 # Oi 👋, me chamo Isaque Pereira
 
 🚀 **Estudante de Engenharia de Software | especialista em JavaScript, TypeScript & Python**  
