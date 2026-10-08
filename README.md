@@ -2,37 +2,32 @@
 
 
 
-# Oi 👋, me chamo Isaque Pereira
+🚀 **Desenvolvedor Full Stack Júnior | TypeScript, React, Next.js & Node.js**
 
-🚀 **Estudante de Engenharia de Software | especialista em JavaScript, TypeScript & Python**  
+Desenvolvedor Full Stack com experiência no desenvolvimento e manutenção de aplicações web, atuando principalmente com **TypeScript, React, Next.js e Node.js**.
 
-Tenho interesse em resolver problemas através da tecnologia, criando soluções práticas, automatizando processos e desenvolvendo aplicações eficientes.
+Tenho interesse em transformar problemas de negócio em soluções práticas, buscando escrever código organizado, reutilizável e de fácil manutenção.
 
-Atualmente aprimorando meus conhecimentos em estruturas de dados, desenvolvimento backend e boas práticas de código.
-
-Em busca da minha primeira oportunidade na área de tecnologia para aplicar na prática o que venho estudando.
+Atualmente, curso **Engenharia de Software** e continuo aprimorando meus conhecimentos em desenvolvimento Full Stack, bancos de dados, APIs e boas práticas de desenvolvimento.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
-<p align="left">
-  <a href="https://github.com/isapq">
-    <img src="https://img.shields.io/badge/GitHub-isapq-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-isapq-181717?style=for-the-badge&logo=github)](https://github.com/isapq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaque%20Pereira-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/isaque-pereira-39757223a/)
 
 ---
+## 🧠 O que eu faço
 
-## 🧠 O que eu faço...
-
-- 🏗️ Desenvolvimento de aplicações e sistemas
-- ⚡ Otimização e melhoria de código
-- 🧩 Boas práticas (Clean Code e organização de projetos)
-- 🔐 Noções de APIs e autenticação
-- 🤖 Automação de tarefas com Python
-- 📊 Manipulação de dados
-- 🎓 Aprendizado contínuo em tecnologia
+- 💻 Desenvolvimento e manutenção de aplicações web
+- ⚛️ Desenvolvimento de interfaces com React e Next.js
+- 🔧 Desenvolvimento de APIs e integrações
+- 🗄️ Consultas e manipulação de bancos de dados
+- 🧩 Investigação e implementação de regras de negócio
+- 🔀 Git, branches, Pull Requests e code review
+- 🧹 Organização, manutenção e melhoria de código
+- 📚 Aprendizado contínuo e evolução técnica
 
 ---
 
@@ -40,34 +35,21 @@ Em busca da minha primeira oportunidade na área de tecnologia para aplicar na p
 
 ### Frontend
 
-- 🟨 JavaScript (ES6+)
-- 🔷 TypeScript (básico a intermediário)
-- ⚛️ React (componentes, props, hooks)
-- ▲ Next.js (estrutura e páginas)
-- 🌐 HTML5 & CSS3
-- 🎨 Tailwind CSS
-- 💅 Styled Components
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,mui" />
+</p>
 
-### Backend
+### Backend & Database
 
-- 🐍 Python
-- 🌐 Desenvolvimento de APIs REST (básico)
-- 🔗 Integração com serviços externos
-- 🗄️ Manipulação e transformação de dados
-- 🤖 Scripts de automação
-- ⚙️ Organização e boas práticas de código
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgresql" />
+</p>
 
-### DevOps & Tools
+### Tools & Workflow
 
-- 🧰 Git & GitHub
-- 💻 VS Code
-- 📦 npm / yarn
-- 🌐 APIs REST (consumo e testes)
-- 🐧 Linux (básico)
-- 🐳 Docker (básico)
-- 🎨 Figma (leitura e criação de interfaces)
-- ⚙️ Configuração e execução de projetos
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
 
 ---
 
