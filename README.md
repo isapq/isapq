@@ -1,4 +1,5 @@
-<img width="100%" height="315" alt="Capa GitHub isapq" src="https://github.com/user-attachments/assets/9dd5da26-2a44-422a-8c6f-1c10b218a8e1" />
+<img width="2172" height="724" alt="d1c3506c-da0b-4a17-9223-8af47707a3c0" src="https://github.com/user-attachments/assets/3ef50276-e45c-41a1-a94c-c5778c7bf623" />
+
 
 
 # Oi 👋, me chamo Isaque Pereira
